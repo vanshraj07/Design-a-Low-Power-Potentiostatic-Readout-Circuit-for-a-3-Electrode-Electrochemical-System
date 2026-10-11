@@ -1,4 +1,6 @@
-# Design-a-Low-Power-Potentiostatic-Readout-Circuit-for-            a-3-Electrode-Electrochemical-System
+<h1 align="center">
+  Design of a Low-Power Potentiostatic Readout Circuit for a 3-Electrode Electrochemical System
+</h1>
 An Arduino-controlled electrochemical setup for cholesterol sensing. The work combines op-amp signal-conditioning circuits, a DAC-based excitation stage, embedded data acquisition, PCB design, and a 3D-printed enclosure for a compact prototype.
 
 > **Project status:** Prototype / preliminary testing. The observations described here are early experimental results, not a calibrated or clinically validated cholesterol measurement system.
