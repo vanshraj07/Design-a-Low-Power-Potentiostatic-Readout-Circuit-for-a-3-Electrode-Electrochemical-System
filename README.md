@@ -80,7 +80,7 @@ The values above describe the test recorded during development; they should not 
 - [ ] Repeat tests with blanks and multiple cholesterol concentrations
 - [ ] Characterize repeatability, calibration, and possible interference from other substances
 
-## Repository layout
+## Planned Repository layout
 
 Keep editable project files separate from screenshots and presentation material. A useful layout is:
 
