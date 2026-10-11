@@ -80,7 +80,7 @@ The values above describe the test recorded during development; they should not 
 - [ ] Repeat tests with blanks and multiple cholesterol concentrations
 - [ ] Characterize repeatability, calibration, and possible interference from other substances
 
-## Suggested repository layout
+## Repository layout
 
 Keep editable project files separate from screenshots and presentation material. A useful layout is:
 
@@ -106,7 +106,7 @@ Keep editable project files separate from screenshots and presentation material.
 
 Only include folders and files that actually exist in the repository. Keep the original editable files wherever possible; screenshots alone are not enough for someone to modify or reproduce the design.
 
-## Reproducing the setup
+## What Is Needed to Reproduce the Setup
 
 Before attempting to recreate the hardware, add these details alongside the source files:
 
